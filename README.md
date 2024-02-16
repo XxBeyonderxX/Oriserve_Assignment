@@ -30,6 +30,6 @@ Implemented the Bert model with meticulous fine-tuning, optimizing performance f
 This project not only showcases technical prowess in NLP and TensorFlow but also highlights adaptability by navigating challenges in the development environment. The use of BERT for sentiment analysis positions the work at the forefront of cutting-edge technology, demonstrating the ability to leverage advanced models for real-world applications.
 
 **Conclusion:**
-Incorporating BERT into sentiment analysis not only enhances accuracy but also reflects a commitment to staying abreast of the latest advancements in NLP. This internship assignment showcases a fusion of technical skill, problem-solving acumen, and an innovative approach, making it a compelling candidate for internship consideration.
+Incorporating BERT into sentiment analysis not only enhances accuracy but also reflects a commitment to staying abreast of the latest advancements in NLP.
 
 
