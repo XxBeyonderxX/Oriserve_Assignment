@@ -1,4 +1,4 @@
-**Title: Subtheme Sentiment Analysis with BERT: Unleashing the Power of Contextual Understanding**
+# Subtheme Sentiment Analysis with BERT
 
 **Introduction:**
 Harnessing the capabilities of BERT (Bidirectional Encoder Representations from Transformers) for subtheme sentiment analysis opens new avenues in NLP. Developed by Google, BERT's bidirectional attention mechanism revolutionizes language understanding, making it a pivotal choice for tasks like sentiment analysis.
